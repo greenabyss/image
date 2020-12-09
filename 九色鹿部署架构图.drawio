@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T13:08:11.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="A5aGdlfqATB2OT8j8G1w" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T01:48:57.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="0D9r6jY-MWSqKTnIjFGf" version="13.10.8" type="github">
   <diagram id="4m0wapcWZzs-jETfaVTt" name="第 1 页">
-    <mxGraphModel dx="2203" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2203" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -298,7 +298,7 @@
         <mxCell id="G7z-j5rVqPP3TAjrnrh4-7" value="运营后台" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/preview/Static_Apps.svg;rounded=0;dashed=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="135" y="671" width="30" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="G7z-j5rVqPP3TAjrnrh4-8" value="访客端" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/preview/Static_Apps.svg;rounded=0;dashed=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="G7z-j5rVqPP3TAjrnrh4-8" value="C端前端" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/preview/Static_Apps.svg;rounded=0;dashed=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="195" y="671" width="30" height="24" as="geometry" />
         </mxCell>
         <mxCell id="G7z-j5rVqPP3TAjrnrh4-9" value="前端静态资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
@@ -382,19 +382,19 @@
         <mxCell id="G7z-j5rVqPP3TAjrnrh4-43" value="评价服务" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Environments.svg;rounded=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1114.0500000000002" y="270" width="28.5" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="G7z-j5rVqPP3TAjrnrh4-47" value="工作台后端" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Environments.svg;rounded=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="G7z-j5rVqPP3TAjrnrh4-47" value="工作台应用" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Environments.svg;rounded=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="947.75" y="345.6" width="28.5" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="G7z-j5rVqPP3TAjrnrh4-48" value="C端后端" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Environments.svg;rounded=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="G7z-j5rVqPP3TAjrnrh4-48" value="C端应用" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Environments.svg;rounded=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="869.25" y="345.6" width="28.5" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="G7z-j5rVqPP3TAjrnrh4-49" value="用户服务" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Environments.svg;rounded=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="788.58" y="345.6" width="28.5" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="G7z-j5rVqPP3TAjrnrh4-50" value="客服管理后端" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Environments.svg;rounded=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="G7z-j5rVqPP3TAjrnrh4-50" value="客服管理应用" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Environments.svg;rounded=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1028.63" y="345.6" width="28.5" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="G7z-j5rVqPP3TAjrnrh4-51" value="评价服务" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Environments.svg;rounded=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="G7z-j5rVqPP3TAjrnrh4-51" value="状态服务" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Environments.svg;rounded=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1114.0500000000002" y="345.6" width="28.5" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="G7z-j5rVqPP3TAjrnrh4-52" value="转接服务" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Environments.svg;rounded=1;dashed=1;" vertex="1" parent="1">
