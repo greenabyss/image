@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T01:48:57.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="0D9r6jY-MWSqKTnIjFGf" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T06:28:49.781Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="DyWd5k_Z2lqkT-zRhxu3" version="13.10.8" type="github">
   <diagram id="4m0wapcWZzs-jETfaVTt" name="第 1 页">
-    <mxGraphModel dx="2203" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2203" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,11 +140,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="709.5" y="770" as="sourcePoint" />
             <mxPoint x="709.75" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VIq6k27REmudd6MNiA6y-113" value="多云OSS client" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VIq6k27REmudd6MNiA6y-112" vertex="1" connectable="0">
-          <mxGeometry x="0.0402" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VIq6k27REmudd6MNiA6y-114" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#FFF2CC;" parent="1" vertex="1">
@@ -309,12 +304,6 @@
             <mxPoint x="184.5" y="520" as="sourcePoint" />
             <mxPoint x="184.5" y="580" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="G7z-j5rVqPP3TAjrnrh4-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;DMZ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="30" width="65" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="G7z-j5rVqPP3TAjrnrh4-13" value="&lt;span style=&quot;font-size: 14px&quot;&gt;trust&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="30" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G7z-j5rVqPP3TAjrnrh4-17" value="" style="endArrow=none;html=1;dashed=1;" edge="1" parent="1" source="G7z-j5rVqPP3TAjrnrh4-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
