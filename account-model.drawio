@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-10T09:02:11.263Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="NitFUpGt0_pCPoxufY1j" version="14.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-10T09:04:15.732Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="FQqroJrO5T0BZ6S5GITP" version="14.0.1" type="github" pages="2">
   <diagram id="FGqdBGpWNokyZxvcwHv9" name="第 1 页">
     <mxGraphModel dx="1426" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,7 +182,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Zf9IuaXF64VE55zgSKF0" name="第 2 页">
-    <mxGraphModel dx="1678" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="1wz-IVhxpfUWdLFYge_6-0" />
         <mxCell id="1wz-IVhxpfUWdLFYge_6-1" parent="1wz-IVhxpfUWdLFYge_6-0" />
@@ -354,7 +354,7 @@
         <mxCell id="L0xCtGMynMRCTWXYUp-7-30" value="零售云控制台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1wz-IVhxpfUWdLFYge_6-1" vertex="1">
           <mxGeometry x="54" y="540" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L0xCtGMynMRCTWXYUp-7-31" value="&lt;font color=&quot;#ff3333&quot;&gt;租户A&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1wz-IVhxpfUWdLFYge_6-1" vertex="1">
+        <mxCell id="L0xCtGMynMRCTWXYUp-7-31" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 15px;&quot;&gt;租户A&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" parent="1wz-IVhxpfUWdLFYge_6-1" vertex="1">
           <mxGeometry x="54" y="710" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="L0xCtGMynMRCTWXYUp-7-35" value="零售云门户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1wz-IVhxpfUWdLFYge_6-1" vertex="1">
@@ -480,7 +480,7 @@
         <mxCell id="uMsbbuueg9nxPzhZQ363-29" value="零售云控制台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1wz-IVhxpfUWdLFYge_6-1">
           <mxGeometry x="44" y="1040" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uMsbbuueg9nxPzhZQ363-30" value="&lt;font color=&quot;#ff3333&quot;&gt;租户B&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1wz-IVhxpfUWdLFYge_6-1">
+        <mxCell id="uMsbbuueg9nxPzhZQ363-30" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 15px;&quot;&gt;租户B&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1wz-IVhxpfUWdLFYge_6-1">
           <mxGeometry x="49" y="1210" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uMsbbuueg9nxPzhZQ363-31" value="&lt;font color=&quot;#ff3333&quot;&gt;平台权限&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1wz-IVhxpfUWdLFYge_6-1">
