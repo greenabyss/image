@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T08:18:05.672Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="YiRabwLBbi-IHjtan0IJ" version="14.4.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-29T08:21:56.833Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="F0UVyN2QvRLiax-xp0vF" version="14.4.8" type="github" pages="2">
   <diagram id="FGqdBGpWNokyZxvcwHv9" name="第 1 页">
-    <mxGraphModel dx="2066" dy="1075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,10 +11,10 @@
           <mxGeometry x="50" y="340" width="120" height="240" as="geometry" />
         </mxCell>
         <mxCell id="8B8tBzYDRaxy-ls7n0YU-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;开发者账号模型&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="270" width="150" height="20" as="geometry" />
+          <mxGeometry x="25" y="270" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8B8tBzYDRaxy-ls7n0YU-56" value="&lt;font color=&quot;#ff3333&quot;&gt;开发者账号池&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="310" width="80" height="20" as="geometry" />
+        <mxCell id="8B8tBzYDRaxy-ls7n0YU-56" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 14px&quot;&gt;开发者账号池&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="310" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WAnnta8OJzCJKOS9vitE-1" value="&lt;font style=&quot;font-size: 11px&quot;&gt;主账号由JNOS创建，JNOS使用，开放平台和卖家中心共用一个账号池，均为子账号，账号互相打通，根据角色和数据权限使用对应应用&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="154" y="310" width="386" height="20" as="geometry" />
